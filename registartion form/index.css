@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(217, 230, 230);
+}
+.whole{
+    background-color: rgb(193, 210, 211);
+    text-align: center;
+    width:300px;
+    position:relative;
+    left:610px;
+    top:100px;
+    box-shadow:5px 5px 10px  rgb(218, 218, 203);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btn1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:15px;
+    color:rgb(0, 0, 0);
+    background-color: forestgreen;
+    border: none;
+    width:100px;
+}
+.btn{
+    padding-bottom: 10px;
+}
